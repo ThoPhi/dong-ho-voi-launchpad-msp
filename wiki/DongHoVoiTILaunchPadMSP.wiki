@@ -1,0 +1,10 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+Một chương trình open source cho mọi người có thể tự làm
+
+= Details =
+
+Bản hướng dẫn sẽ được post tại diễn dàn TI VN : www.diendanti.com
+hoặc tại blog của chipfc: www.blog.chipfc.com
